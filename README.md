@@ -10,7 +10,11 @@ The folder "<a href="./train examples">train examples</a>" contains some samples
 This video clip shows the vehicle detection result of the model trained with the images enhanced by our proposed contrast enhancement method.
 The full video could be found under the root folder or by clicking <a href="./Low-Light-Detection-Output.mp4">Low-Light-Detection-Output.mp4</a>.
 
-https://user-images.githubusercontent.com/52037172/209122008-87200278-6386-41d9-80c9-3b77f68fb699.mp4
+
+
+https://user-images.githubusercontent.com/52037172/209124569-483a6d16-bb9e-4651-99c5-d6e4f426624e.mp4
+
+
 
 ## To get the access of the full dataset
 If you want to get the whole dataset, please send an official email request to Prof. Guohui Zhang (guohui@hawaii.edu) for permit of use.

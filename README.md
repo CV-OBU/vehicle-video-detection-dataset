@@ -3,6 +3,6 @@
 
 This dataset contains images under low-environment-light conditions for the purpose of nighttime vehicle detection.
 
-The folder "<a href="./train examples">train examples/</a>" contains some samples of our dataset for demonstration.
+The folder "<a href="./train examples">train examples</a>" contains some samples of our dataset for demonstration.
 
 If you want to get the whole dataset, please send an official email request to Prof. Guohui Zhang (guohui@hawaii.edu) for permit of use.

@@ -11,13 +11,7 @@ This video clip shows the vehicle detection result of the model trained with the
 The full video could be found under the root folder or by clicking <a href="./Low-Light-Detection-Output.mp4">Low-Light-Detection-Output.mp4</a>.
 
 
-
-https://user-images.githubusercontent.com/52037172/209126104-75264071-6eb5-40bf-89f6-dc955d6d4ce7.mov
-
-
-
 https://user-images.githubusercontent.com/52037172/209126178-7e537604-5e54-4799-935c-0f6b4bce382f.mp4
-
 
 
 ## To get the access of the full dataset

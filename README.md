@@ -8,10 +8,12 @@ The folder "<a href="./train examples">train examples</a>" contains some samples
 
 ## Nighttime vehicle video detection example:
 This video clip shows the vehicle detection result of the model trained with the images enhanced by our proposed contrast enhancement method.
-The full video could be found under the root folder or by clicking <a href="./Low-Light-Detection-Output.mp4">Low-Light-Detection-Output.mp4</a>.
+The full video could be found under the root folder or by clicking <a href="./Low_Light_Detection_Output.mp4">Low_Light_Detection_Output.mp4</a>.
 
 
-https://user-images.githubusercontent.com/52037172/209126178-7e537604-5e54-4799-935c-0f6b4bce382f.mp4
+
+https://user-images.githubusercontent.com/52037172/209453667-d00a95ff-233d-4a27-834d-080a4bec7c7d.mp4
+
 
 
 ## To get the access of the full dataset
